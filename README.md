@@ -3,6 +3,6 @@ Forest fires are among the most destructive natural disasters globally, with the
 ![image](https://github.com/user-attachments/assets/7153b072-d471-4586-a750-afd55a45889e)
 
 # Dataset Link
-When the dataset is received by the formula
+The article will be made public after acceptance.
 
 # Cite
