@@ -10,7 +10,7 @@ We provide Python code for converting different tags in our repository, includin
 
 # Dataset Link
 
-[Link: https://pan.baidu.com/s/1vanNGpSF6oTw2sym9cTLgA ](https://drive.google.com/open?id=1w2-6NyDW3gbtxUtqSDu4tgr5oqKWCn8_&usp=drive_fs)
+Link: https://drive.google.com/file/d/1w2-6NyDW3gbtxUtqSDu4tgr5oqKWCn8_/view?usp=sharing
 <br>Extract code: DMFFSD 
 
 # Cite
