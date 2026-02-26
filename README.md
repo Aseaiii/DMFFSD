@@ -14,4 +14,10 @@ Link: https://drive.google.com/file/d/1w2-6NyDW3gbtxUtqSDu4tgr5oqKWCn8_/view?usp
 <br>Extract code: DMFFSD 
 
 # Cite
-If you have used our data in your research work, please cite our work, thank you very much.
+@article{ZHOU2026114904,
+title = {Generating diverse data based on FA-LoRA fine-tuning of diffusion models to enhance UAV forest fire detection performance},
+journal = {Applied Soft Computing},
+year = {2026},
+doi = {https://doi.org/10.1016/j.asoc.2026.114904},
+author = {Wentao Zhou and Deqiang He and Zhenzhen Jin and Zexian Wei and Haimeng Sun and Jinxin Wu and Yuan Zhuang and Baofu Qin and Qinzhan Wu}}
+}
